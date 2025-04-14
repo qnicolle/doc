@@ -1,3 +1,2 @@
-# Headline
+# 🏠 Accueil
 
-> An awesome project.
