@@ -3,7 +3,7 @@
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
   <!-- Tuile 1 -->
   <div class="tuile-container" style="width: 30%; display: flex; justify-content: center;">
-    <a href="/#/planka.md" style="width: 100%; display: block;">
+    <a href="/doc/#/planka.md" style="width: 100%; display: block;">
       <div class="tuile" style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         <img src="https://comptoir-du-libre.org/img/files/Softwares/planka/avatar/sitelogo.png" alt="Planka" style="width: 60% ; height: auto; border-radius: 8px;">
         <h3>PLANKA</h3>
