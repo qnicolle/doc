@@ -13,7 +13,7 @@
   </div>
 
 <div class="tuile-container" style="width: 30%; display: flex; justify-content: center;">
-  <a href="/#/textblaze.md" style="width: 100%; display: block;">
+  <a href="/doc/#/textblaze.md" style="width: 100%; display: block;">
     <div class="tuile" style="border: 1px solid #ccc; border-radius: 8px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
       <img src="https://pbs.twimg.com/profile_images/1102239783001055237/QWqFwawI_400x400.png" alt="Text Blaze" style="width: 60%; height: auto; border-radius: 8px;">
       <h3>TEXT BLAZE</h3>
